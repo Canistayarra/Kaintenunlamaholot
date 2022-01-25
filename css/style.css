@@ -1,0 +1,44 @@
+.footer {
+    color: #FFFFFF;
+    font-family: 'Island Moments';
+    font-size: 12pt;
+}
+
+.navbar-brand{
+    font-family: 'Island Moments';
+    font-size: 23pt;
+}
+
+.bg-col {
+    background-color: #d8bfd5;
+    font-family: Britannic;
+    font-size: 12pt;
+}
+
+.custom-shadow {
+    box-shadow: 0px 0px 6px 0px rgba(0,0,0,0.25);
+    -webkit-box-shadow: 0px 0px 6px 0px rgba(0,0,0,0.25);
+    -moz-box-shadow: 0px 0px 6px 0px rgba(0,0,0,0.25);
+}
+
+.table {
+    margin: 8px;
+    border: 10pt;
+    font-family: Britannic;
+    font-size: 12pt;
+    color: #33273f;
+}
+
+.row {
+    background-color: #d8bfd5;
+    color: #33273f;
+    font-family: Britannic;
+    font-size: 12pt;
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.row > div {
+    padding-right: 0;
+    padding-left: 0;
+}
